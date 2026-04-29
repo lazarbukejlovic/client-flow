@@ -94,9 +94,9 @@ It is one of the strongest examples in the portfolio of combining UI quality wit
 
 ## Live Demo
 
-**Live:**  https://client-flow.vercel.app
+## [Live](https://client-flow.vercel.app)
 
-**Repository:** https://github.com/lazarbukejlovic-dotcom/clientflow
+## [Repository](https://github.com/lazarbukejlovic/client-flow)
 
 ## Author
 
