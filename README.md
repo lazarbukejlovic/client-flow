@@ -1,4 +1,4 @@
-# ClientFlow
+﻿# ClientFlow
 
 ClientFlow is a client operations platform built for freelancers, consultants, and small agencies who need more than a generic admin panel.
 
@@ -94,10 +94,11 @@ It is one of the strongest examples in the portfolio of combining UI quality wit
 
 ## Live Demo
 
-**Live:**  https://useclientflow.lovable.app/
+**Live:**  https://client-flow.vercel.app
 
 **Repository:** https://github.com/lazarbukejlovic-dotcom/clientflow
 
 ## Author
 
 **Lazar Bukejlovic**
+
